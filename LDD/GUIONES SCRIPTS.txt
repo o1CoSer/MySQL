@@ -1,0 +1,5 @@
+Para poder dar las instrucciones al servidor vamos a crear un script
+En dbForge
+New SQL
+Ctrl + s para guardarlo
+Para ejecutar el script "execute"
