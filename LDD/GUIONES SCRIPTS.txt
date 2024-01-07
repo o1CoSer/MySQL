@@ -2,4 +2,6 @@ Para poder dar las instrucciones al servidor vamos a crear un script
 En dbForge
 New SQL
 Ctrl + s para guardarlo
-Para ejecutar el script "execute"
+Para ejecutar el script "execute", a todas las instrucciones
+o a las seleccionadas
+para confugurar el entorno de trabajo opciones del editor
