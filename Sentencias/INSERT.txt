@@ -1,0 +1,1 @@
+Permite insertar, introducir, datos en una tabla
